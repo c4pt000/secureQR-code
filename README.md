@@ -5,7 +5,7 @@ https://www.zdnet.com/article/fbi-warning-crooks-are-using-fake-qr-codes-to-stea
 
 
 # not verified
-# https://raw.githubusercontent.com/c4pt000/secureQR-code/main/Screenshot_20220119-135806-066~4.png
+![s1](https://raw.githubusercontent.com/c4pt000/secureQR-code/main/Screenshot_20220119-135806-066~4.png)
 
 
 
