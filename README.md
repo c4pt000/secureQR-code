@@ -4,7 +4,8 @@
 https://www.zdnet.com/article/fbi-warning-crooks-are-using-fake-qr-codes-to-steal-your-passwords-and-money/
 
 
-
+# not verified
+# https://raw.githubusercontent.com/c4pt000/secureQR-code/main/Screenshot_20220119-135806-066~4.png
 
 
 
