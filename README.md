@@ -1,4 +1,4 @@
-# secureQR-code
+# verifying-secureQR-codes
 # mostly websites and almost anything that can be serialized as a QR code output
 # md5 verified certificate of serialized data to QR code output with a secure checkmark or padlock ti prove authenticity of QR website
 
