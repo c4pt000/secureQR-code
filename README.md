@@ -3,7 +3,7 @@
 # md5 verified certificate of serialized data to QR code output with a secure checkmark or padlock ti prove authenticity of QR website
 
 https://www.zdnet.com/article/fbi-warning-crooks-are-using-fake-qr-codes-to-steal-your-passwords-and-money/
-
+https://www.pcmag.com/news/fbi-hackers-are-compromising-legit-qr-codes-to-send-you-to-phishing-sites
 # would be examples just pseduo design concept art would use similar verification like SSL world root and akamai type verification in order to display secure padlock
 # not verified
 ![s1](https://raw.githubusercontent.com/c4pt000/secureQR-code/main/Screenshot_20220119-135806-066~4.png)
