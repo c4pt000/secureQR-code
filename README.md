@@ -10,9 +10,11 @@ https://www.pcmag.com/news/fbi-hackers-are-compromising-legit-qr-codes-to-send-y
 
 
 # verified
+
+
 ![s1](https://raw.githubusercontent.com/c4pt000/secureQR-code/main/Screenshot_20220119-135806-066~3.png)
 
-
+![s1](https://raw.githubusercontent.com/c4pt000/verifying-secureQR-codes/main/Screenshot_20220120-182128-041~3.png)
 dhw
 01-19-2022
 2pm MT
