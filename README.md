@@ -17,7 +17,7 @@ https://www.pcmag.com/news/fbi-hackers-are-compromising-legit-qr-codes-to-send-y
 
 
 01-20-2022
-# better concept design but can verify all strings nit just https or http with md5
+# better concept design but can verify all strings not just https or http with md5
 ![s1](https://raw.githubusercontent.com/c4pt000/verifying-secureQR-codes/main/Screenshot_20220120-182128-041~3.png)
 
 
